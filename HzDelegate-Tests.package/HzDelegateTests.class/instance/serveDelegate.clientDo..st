@@ -13,9 +13,10 @@ serveDelegate: aDelegate clientDo: block
 		self assert: server isRunning & server isListening
 			description: (self failedServerDescription format: { server port }).
 	
-		client := ZnClient new.
-		client beOneShot
-			url: server localUrl.
+		client := ZnClient new
+			beOneShot;
+			url: server localUrl;
+			yourself.
 			
 		block cull: client
 		
