@@ -1,0 +1,4 @@
+accessing
+getOnly
+
+	methods := #(GET)

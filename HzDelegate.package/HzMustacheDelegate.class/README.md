@@ -1,0 +1,2 @@
+I am a delegate for rendering mustache html templates.
+I keep a cache of templates and a tree of objects which are mapped to a spesific root template and uses as the root object when generating said template.

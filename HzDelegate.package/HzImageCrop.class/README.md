@@ -1,0 +1,1 @@
+I contain the neccesary data and method to crop an image

@@ -1,0 +1,1 @@
+RequestIterator wrapps a ZnRequest and provides a way to stream the path segements

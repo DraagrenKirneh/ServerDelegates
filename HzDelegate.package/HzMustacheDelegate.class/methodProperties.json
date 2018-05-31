@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"handleRequestAt:" : "HenrikNergaard 5/30/2018 22:47",
+		"initialize" : "HenrikNergaard 5/30/2018 22:48",
+		"map:to:" : "HenrikNergaard 5/30/2018 22:48",
+		"objectAt:" : "HenrikNergaard 5/30/2018 22:48",
+		"objectAt:put:" : "HenrikNergaard 5/30/2018 22:49",
+		"objectAt:put:template:" : "HenrikNergaard 5/30/2018 22:49",
+		"templates:" : "HenrikNergaard 5/30/2018 22:30"
+	},
+	"class" : { }
+}

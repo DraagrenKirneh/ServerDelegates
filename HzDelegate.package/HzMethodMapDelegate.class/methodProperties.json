@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"handleRequestAt:" : "HenrikNergaard 5/30/2018 00:10",
+		"initialize" : "HenrikNergaard 5/12/2018 11:37",
+		"mapDeleteTo:" : "HenrikNergaard 5/12/2018 20:02",
+		"mapGetTo:" : "HenrikNergaard 5/12/2018 20:02",
+		"mapMethod:to:" : "HenrikNergaard 5/12/2018 20:02",
+		"mapPostTo:" : "HenrikNergaard 5/12/2018 20:02"
+	},
+	"class" : { }
+}

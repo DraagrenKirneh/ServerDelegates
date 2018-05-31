@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"getOnly" : "HenrikNergaard 5/12/2018 11:46",
+		"handleRequestAt:" : "HenrikNergaard 5/30/2018 22:15",
+		"initialize" : "HenrikNergaard 5/12/2018 11:45",
+		"methods" : "HenrikNergaard 5/12/2018 11:46",
+		"methods:" : "HenrikNergaard 5/12/2018 11:46",
+		"postOnly" : "HenrikNergaard 5/12/2018 11:46"
+	},
+	"class" : { }
+}

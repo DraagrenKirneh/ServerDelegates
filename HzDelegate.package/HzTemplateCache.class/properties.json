@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HenrikNergaard 5/31/2018 23:27",
+	"super" : "Object",
+	"category" : "HzDelegate-Other",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"templates"
+	],
+	"name" : "HzTemplateCache",
+	"type" : "normal"
+}

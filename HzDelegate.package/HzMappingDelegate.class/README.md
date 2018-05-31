@@ -1,0 +1,1 @@
+MappingDelegate is a delegate which map a segment part to another delegate

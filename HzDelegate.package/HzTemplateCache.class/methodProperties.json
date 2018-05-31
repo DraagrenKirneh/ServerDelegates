@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"addFile:atPath:" : "HenrikNergaard 5/18/2018 21:54",
+		"at:" : "HenrikNergaard 5/10/2018 11:29",
+		"at:put:" : "HenrikNergaard 5/18/2018 21:54",
+		"atPath:put:" : "HenrikNergaard 5/18/2018 21:53",
+		"fromDirectory:" : "HenrikNergaard 5/18/2018 14:50",
+		"generate:for:" : "HenrikNergaard 5/10/2018 15:08",
+		"initialize" : "HenrikNergaard 5/10/2018 15:05",
+		"templateAt:" : "HenrikNergaard 5/10/2018 11:30"
+	},
+	"class" : {
+		"loadFromPath:" : "HenrikNergaard 5/10/2018 11:34"
+	}
+}

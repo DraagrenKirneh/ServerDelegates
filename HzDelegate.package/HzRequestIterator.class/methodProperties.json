@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"asResponseBadRequest" : "HenrikNergaard 5/30/2018 00:06",
+		"asResponseMethodNotAllowed" : "HenrikNergaard 5/30/2018 00:07",
+		"asResponseNotFound" : "HenrikNergaard 5/29/2018 22:17",
+		"atEnd" : "HenrikNergaard 5/10/2018 14:35",
+		"current" : "HenrikNergaard 5/9/2018 23:06",
+		"initialize" : "HenrikNergaard 5/9/2018 23:06",
+		"isDirectoryPath" : "HenrikNergaard 5/9/2018 23:16",
+		"method" : "HenrikNergaard 5/30/2018 00:10",
+		"next" : "HenrikNergaard 5/9/2018 23:06",
+		"peek" : "HenrikNergaard 5/12/2018 10:23",
+		"remainingPath" : "HenrikNergaard 5/18/2018 21:49",
+		"remainingRelativePath" : "HenrikNergaard 5/29/2018 22:38",
+		"remainingSegments" : "HenrikNergaard 5/9/2018 23:20",
+		"request" : "HenrikNergaard 5/29/2018 22:14",
+		"request:" : "HenrikNergaard 5/29/2018 22:14",
+		"segments" : "HenrikNergaard 5/29/2018 21:26",
+		"url" : "HenrikNergaard 5/30/2018 00:08"
+	},
+	"class" : {
+		"request:" : "HenrikNergaard 5/29/2018 22:14"
+	}
+}

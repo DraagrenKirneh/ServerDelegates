@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "HenrikNergaard 5/30/2018 22:53",
+	"super" : "Object",
+	"category" : "HzDelegate-Other",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"segments",
+		"index",
+		"request"
+	],
+	"name" : "HzRequestIterator",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "HenrikNergaard 5/30/2018 22:58",
+	"super" : "HzTemplateCache",
+	"category" : "HzDelegate-Other",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"directory",
+		"timestampDict"
+	],
+	"name" : "HzReloadingTemplateCache",
+	"type" : "normal"
+}

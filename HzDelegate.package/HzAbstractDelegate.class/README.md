@@ -1,0 +1,1 @@
+I am an abstract class for delegates, implementing the methods expected

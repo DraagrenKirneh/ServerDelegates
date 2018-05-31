@@ -1,0 +1,4 @@
+accessing
+postOnly
+
+	methods := #(POST)

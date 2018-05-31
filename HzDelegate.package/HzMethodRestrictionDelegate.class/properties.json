@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HenrikNergaard 5/12/2018 12:55",
+	"super" : "HzWrappingDelegate",
+	"category" : "HzDelegate-Delegate",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"methods"
+	],
+	"name" : "HzMethodRestrictionDelegate",
+	"type" : "normal"
+}

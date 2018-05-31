@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"addCrop:" : "HenrikNergaard 5/30/2018 23:14",
+		"directory" : "HenrikNergaard 5/29/2018 22:35",
+		"directory:" : "HenrikNergaard 5/29/2018 22:35",
+		"emplaceCrop:" : "HenrikNergaard 5/30/2018 23:14",
+		"handleRequestAt:" : "HenrikNergaard 5/30/2018 22:14",
+		"imageAt:crop:" : "HenrikNergaard 5/29/2018 23:31",
+		"initialize" : "HenrikNergaard 5/29/2018 21:18",
+		"rawImage:" : "HenrikNergaard 5/30/2018 00:09",
+		"responseForFile:fromRequest:" : "HenrikNergaard 5/29/2018 23:56"
+	},
+	"class" : {
+		"exampleOn:" : "HenrikNergaard 5/30/2018 23:40"
+	}
+}

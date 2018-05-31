@@ -1,0 +1,4 @@
+public
+handleRequestAt: aRequestIterator
+
+	self subclassResponsibility

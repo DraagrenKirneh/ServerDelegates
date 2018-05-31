@@ -1,0 +1,1 @@
+I am a wrapping delegate adding authentication checking before forwarding the request down the path

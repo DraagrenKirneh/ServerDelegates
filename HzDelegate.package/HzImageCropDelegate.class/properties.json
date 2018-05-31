@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "HenrikNergaard 5/30/2018 22:18",
+	"super" : "HzAbstractDelegate",
+	"category" : "HzDelegate-Delegate",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"directory",
+		"crops"
+	],
+	"name" : "HzImageCropDelegate",
+	"type" : "normal"
+}

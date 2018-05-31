@@ -1,0 +1,1 @@
+WrappingDelegate is a wrapper around another delegate to provide extra behaviour such as authentication and validation. it is not meant to mutate the segment iterator

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "HenrikNergaard 5/30/2018 00:00",
+	"super" : "Object",
+	"category" : "HzDelegate-Other",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"extent",
+		"focus",
+		"quality"
+	],
+	"name" : "HzImageCrop",
+	"type" : "normal"
+}

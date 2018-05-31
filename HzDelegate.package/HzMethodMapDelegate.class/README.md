@@ -1,0 +1,1 @@
+MethodMapDelegate is a wrapping delegate for routing different http methods to delegates

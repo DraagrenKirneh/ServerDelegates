@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "HenrikNergaard 5/30/2018 22:50",
+	"super" : "HzAbstractDelegate",
+	"category" : "HzDelegate-Delegate",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"templates",
+		"objects"
+	],
+	"name" : "HzMustacheDelegate",
+	"type" : "normal"
+}
