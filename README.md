@@ -4,7 +4,7 @@
 
 ```Smalltalk
 Metacello new
-   baseline: 'GetPointMorph';
-   repository: 'github://DraagrenKirneh/GetPointMorph';
+   baseline: 'ServerDelegates';
+   repository: 'github://DraagrenKirneh/ServerDelegates';
    load.
 ```
