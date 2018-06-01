@@ -5,9 +5,7 @@ baseline: spec
 	spec for: #'common' do: [
 		
 		spec baseline: 'Mustache' with: [ 
-			spec
-				versionString: #bleedingEdge;
-				repository: 'github://DraagrenKirneh/mustache/repository'
+			spec repository: 'github://DraagrenKirneh/mustache/repository'
 		].
 		
 		spec 
