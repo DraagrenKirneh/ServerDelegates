@@ -9,7 +9,7 @@ baseline: spec
 		].
 		
 		spec 
-			package: #'HzDelegate';
+			package: #'HzDelegate' with: [ spec requires: #(Mustache) ];
 			package: #'HzDelegate-Tests'.
 		
 		spec 
