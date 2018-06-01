@@ -4,12 +4,11 @@ baseline: spec
 
 	spec for: #'common' do: [
 		
-		spec 
-			configuration: 'Mustache' with: [ 
-				spec
-					versionString: #bleedingEdge;
-					repository: 'github://DraagrenKirneh/mustache/repository'
-			].
+		spec baseline: 'Mustache' with: [ 
+			spec
+				versionString: #bleedingEdge;
+				repository: 'github://DraagrenKirneh/mustache/repository'
+		].
 		
 		spec 
 			package: #'HzDelegate';
