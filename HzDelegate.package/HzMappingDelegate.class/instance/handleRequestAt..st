@@ -3,5 +3,12 @@ handleRequestAt: aRequestIterator
 
 	^ map at: aRequestIterator next 
 		ifPresent: [ :delegate | delegate handleRequestAt: aRequestIterator ]
-		ifAbsent: [ aRequestIterator asResponseNotFound ]
+		ifAbsent: [ 
+			default 
+				ifNil: [ 	aRequestIterator asResponseNotFound ]
+				ifNotNil: [ 
+					aRequestIterator stepBack.
+					default handleRequestAt: aRequestIterator 
+				]
+ 		]
 	
