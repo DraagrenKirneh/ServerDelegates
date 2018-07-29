@@ -7,9 +7,16 @@ baseline: spec
 		spec baseline: 'Mustache' with: [ 
 			spec repository: 'github://DraagrenKirneh/mustache/repository'
 		].
+	
+		spec configuration: 'ZincHTTPComponents' with: [ 
+			spec 
+				versionString: #bleedingEdge;
+				loads: #('Zinc-WebSocket-Core');
+             repository: 'http://mc.stfx.eu/ZincHTTPComponents'
+		].
 		
 		spec 
-			package: #'HzDelegate' with: [ spec requires: #(Mustache) ];
+			package: #'HzDelegate' with: [ spec requires: #(Mustache ZincHTTPComponents) ];
 			package: #'HzDelegate-Tests'.
 		
 		spec 
