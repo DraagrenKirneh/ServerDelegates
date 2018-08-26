@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "HenrikNergaard 5/30/2018 22:18",
 	"super" : "HzAbstractDelegate",
-	"category" : "HzDelegate-Delegate",
+	"category" : "HzDelegate-Image",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

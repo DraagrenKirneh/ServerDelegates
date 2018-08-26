@@ -17,11 +17,12 @@ baseline: spec
 		
 		spec 
 			package: #'HzDelegate' with: [ spec requires: #(Mustache ZincHTTPComponents) ];
+			package: #'HzDelegate-Image';
 			package: #'HzDelegate-Tests'.
 		
 		spec 
 			group: 'default' with: #('core' 'tests');
-			group: 'core' with: #('HzDelegate');
+			group: 'core' with: #('HzDelegate' 'HzDelegate-Image');
 			group: 'tests' with: #('HzDelegate-Tests') 
 	
 	]
