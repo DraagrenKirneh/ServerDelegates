@@ -1,2 +1,2 @@
-(name 'HzDelegate-HenrikNergaard.1532899886' message 'empty log message' id 'e9dd6f69-b730-0d00-b3bf-ca4d06b086ba' date '26 August 2018' time '2:23:23.326929 pm' author 'HenrikNergaard' ancestors ((name 'HzDelegate-HenrikNergaard.1532899885' message 'Add support form websockets
-' id '23d6db25-4418-566d-b881-c49a81500963' date '29 July 2018' time '11:31:25 pm' author 'HenrikNergaard' ancestors () stepChildren ())) stepChildren ())
+(name 'HzDelegate-HenrikNergaard.1535286391' message '' id 'a346a457-d831-0d00-a29d-f1ce05babd5b' date '9 September 2018' time '11:05:50.320267 pm' author 'HenrikNergaard' ancestors ((name 'HzDelegate-HenrikNergaard.1535286390' message 'Move image to its own package
+' id '310a5585-4e95-5ab7-b136-f9ad10485c53' date '26 August 2018' time '2:26:30 pm' author 'HenrikNergaard' ancestors () stepChildren ())) stepChildren ())

@@ -11,7 +11,7 @@ handleRequestAt: anIterator
 	
 	file exists ifFalse: [ ^ anIterator asResponseNotFound ].
 	
-	(file isDirectory and: [ anIterator isDirectory not ]) 	ifTrue: [ 
+	(file isDirectory and: [ anIterator isDirectoryPath not ]) 	ifTrue: [ 
 		^ ZnResponse redirect: (anIterator url / #/)		
 	].
 	
